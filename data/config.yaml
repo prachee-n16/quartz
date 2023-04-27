@@ -1,29 +1,55 @@
-name: Jacky Zhao
+name: Prachee Nanda
+
+# whether to show table of contents on every page
+# can be turned off based per page
 enableToc: true
+
+# should table of content be open/close
 openToc: false
+
+# whether to display on-hover link preview cards
 enableLinkPreview: true
+
 enableLatex: true
+
+# whether to render titles for code blocks (and copy button)
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
+
 enableCallouts: true
+
+# whether to render single-page-app style
 enableSPA: true
 enableFooter: true
+
+# whether backlinks of pages should show the context in which
+# they were mentioned
 enableContextualBacklinks: true
-enableRecentNotes: false
+
+# whether to show a section of recent notes on the home page
+enableRecentNotes: true 
+
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+
+# whether to use Operand to power semantic search
+# IMPORTANT: replace this API key with your own if you plan on using
+# Operand search!
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Welcome to my digital garden, a collection of notes on topics that have captured my interest and curiosity. Come explore with me!
 page_title:
-  "🪴 Quartz 3.3"
+  "Prachee Nanda"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Instagram
+    link: https://www.instagram.com/pracheenanda/?hl=en
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/prachee-n16
+  - link_name: Linkedin
+    link: https://www.linkedin.com/in/pracheenanda/?originalSubdomain=ca
+favicon:
+  - {rel: "shortcut icon", href: "profile.png", type: "image/png" }
