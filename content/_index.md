@@ -7,10 +7,10 @@ Hi there 👋! Welcome to my digital garden, a collection of notes on topics tha
 
 This notebook will keep on changing and improving over time, so don't expect it to be perfect yet. Some pages might still be a work in progress.
 
-- ✅ Projects
-- 🔭 Areas
-- 📚 Resources
-- 🗄️ Archive
+- [✅ Projects](notes/✅%20Projects.md)
+- [[notes/🔭 Areas|🔭 Areas|]]
+- [[notes/📚 Resources|📚 Resources]]
+- [[notes/🗄️ Archive|🗄️ Archive]]
 
 While I'm still playing around with how I want to build my `second brain`, here are some basic principles I follow! 
 
