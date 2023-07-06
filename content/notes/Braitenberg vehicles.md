@@ -1,3 +1,12 @@
+```yaml
+---
+title: "Braitenberg vehicles"
+tags:
+- AI
+- notes
+---
+```
+
 Source: [Braitenberg Vehicle Wiki](https://en.wikipedia.org/wiki/Braitenberg_vehicle)
 
 This was a thought experiment by Valentino Braitenberg.

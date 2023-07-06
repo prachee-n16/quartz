@@ -1,12 +1,21 @@
+```yaml
+---
+title: "Artificial Intelligence Concept Map"
+tags:
+- AI
+- notes
+- concept map
+---
+```
+
 **What is AI?**
 From the name, it seems that the aim of artificial intelligence is to create artificially "intelligent" machines. This is a rather loose definition as witnessed by [[notes/Braitenberg vehicles|Braitenberg vehicles]] experiment. So, a better way to define AI: the study of having computers complete tasks, at which people are better.
 - Machine Learning is important, because "learning" is a strength of human intelligence and we want to replicate this with computers.
 
 **History of AI**
-- [[notes/artificial intelligence/First Order Logic|First Order Logic]]
-- [[notes/artificial intelligence/Baynesian Networks|Baynesian Networks]]
-- [[notes/artificial intelligence/Fuzzy Logic|Fuzzy Logic]]
-- [[notes/artificial intelligence/Distributed artificial intelligence (DAI)|Distributed artificial intelligence (DAI)]]
+- [[notes/First Order Logic|First Order Logic]]
+- [[notes/Baynesian Networks|Baynesian Networks]]
+- [[notes/Fuzzy Logic|Fuzzy Logic]]
 
 Related: [[Ethics in AI]]
 

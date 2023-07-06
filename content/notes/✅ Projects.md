@@ -1,3 +1,11 @@
+```yaml
+---
+title: "✅ Projects"
+tags:
+- projects
+---
+```
+
 [[Gesture Recognition with AI to improve Human-Computer Interactions]]
 
 [[Generating Job Resources based on LinkedIn Job Descriptions]]

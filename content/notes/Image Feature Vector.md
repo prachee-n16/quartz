@@ -1,3 +1,11 @@
+```yaml
+---
+title: "Image Feature Vector"
+tags:
+- AI
+- notes
+---
+```
 A way to abstract information i.e. image, so that it's numerically quantifiable. Simply put, a list of numbers that represents an image. 
 
 When building an image search engine, the first step is figure out what image descriptor to use. Am I trying to note a change in color, extract an object or differentiate between texture?
