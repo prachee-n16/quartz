@@ -1,8 +1,7 @@
-```yaml
 ---
 title: "Gödel's Incompleteness Theorem"
 ---
-```
+
 Source: [Numberphile on Gödel's Incompleteness Theorem](https://www.youtube.com/watch?v=O4ndIDcDSGc)
 
 The simple idea: There might be a conjecture that's true, but there is no way to prove it.

@@ -1,5 +1,3 @@
-```yaml
 ---
 title: "🔭 Archive"
 ---
-```

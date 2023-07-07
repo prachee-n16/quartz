@@ -1,8 +1,6 @@
-```yaml
 ---
 title: "✅ Projects"
 ---
-```
 
 [[Gesture Recognition with AI to improve Human-Computer Interactions]]
 

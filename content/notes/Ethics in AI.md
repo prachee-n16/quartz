@@ -1,8 +1,7 @@
-```yaml
 ---
 title: "Ethics in AI"
 ---
-```
+
 
 **Filter Bubbles**
 The goal of content recommendation systems, especially those used in social media/newsfeeds, is to provide personalized searches. The unintended effect can be an *intellectual isolation* - you keep being offered curated results, but you find yourself in a bubble of only your own ideas.

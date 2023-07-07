@@ -1,8 +1,7 @@
-```yaml
 ---
 title: "Minimax Algorithm"
 ---
-```
+
 Decision-theory concept. For simplicity, let's consider it in the context of a two-player zero sum game like tic-tac-toe.
 
 Let there be two players, X and O (their names represent the symbols they need to win on the board). When X wins, let's say the "value" of that board is 1 and when O wins the "value" is -1. If it's a draw, we assign a 0 to the board value. At any point in the game, X wants to maximize and O wants to minimize.

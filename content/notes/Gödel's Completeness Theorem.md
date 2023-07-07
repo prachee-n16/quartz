@@ -1,8 +1,7 @@
-```yaml
 ---
 title: "Gödel's Completeness Theorem"
 ---
-```
+
 For any collection of first-order statements, every semantic implication of those statements is syntactically provable within first-order logic.
 
 Simply put,

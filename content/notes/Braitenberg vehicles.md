@@ -1,8 +1,6 @@
-```yaml
 ---
 title: "Braitenberg vehicles"
 ---
-```
 
 Source: [Braitenberg Vehicle Wiki](https://en.wikipedia.org/wiki/Braitenberg_vehicle)
 
