@@ -1,10 +1,6 @@
 ```yaml
 ---
 title: "Minimax Algorithm"
-tags:
-- AI
-- notes
-- algorithm
 ---
 ```
 Decision-theory concept. For simplicity, let's consider it in the context of a two-player zero sum game like tic-tac-toe.

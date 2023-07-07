@@ -1,8 +1,6 @@
 ```yaml
 ---
 title: "✅ Projects"
-tags:
-- projects
 ---
 ```
 

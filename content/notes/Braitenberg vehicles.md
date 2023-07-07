@@ -1,9 +1,6 @@
 ```yaml
 ---
 title: "Braitenberg vehicles"
-tags:
-- AI
-- notes
 ---
 ```
 

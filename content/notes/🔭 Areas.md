@@ -1,8 +1,6 @@
 ```yaml
 ---
 title: "🔭 Areas"
-tags:
-- areas
 ---
 ```
 

@@ -1,10 +1,6 @@
 ```yaml
 ---
 title: "Alpha-beta Pruning"
-tags:
-- AI
-- notes
-- algorithm
 ---
 ```
 Search algorithm that decreases the number of gate states to evaluate in [[notes/Minimax Algorithm|Minimax Algorithm]] in the game tree.

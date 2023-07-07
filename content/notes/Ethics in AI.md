@@ -1,10 +1,6 @@
 ```yaml
 ---
 title: "Ethics in AI"
-tags:
-- AI
-- notes
-- ethics
 ---
 ```
 

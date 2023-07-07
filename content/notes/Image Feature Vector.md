@@ -1,9 +1,6 @@
 ```yaml
 ---
 title: "Image Feature Vector"
-tags:
-- AI
-- notes
 ---
 ```
 A way to abstract information i.e. image, so that it's numerically quantifiable. Simply put, a list of numbers that represents an image. 

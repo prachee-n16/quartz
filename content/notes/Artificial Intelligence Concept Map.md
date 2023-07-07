@@ -1,10 +1,6 @@
 ```yaml
 ---
 title: "Artificial Intelligence Concept Map"
-tags:
-- AI
-- notes
-- concept map
 ---
 ```
 

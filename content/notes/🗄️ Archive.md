@@ -1,7 +1,5 @@
 ```yaml
 ---
-title: "🔭 Archived"
-tags:
-- archive
+title: "🔭 Archive"
 ---
 ```
