@@ -2,7 +2,6 @@
 title: "Artificial Intelligence Concept Map"
 ---
 
-
 **What is AI?**
 From the name, it seems that the aim of artificial intelligence is to create artificially "intelligent" machines. This is a rather loose definition as witnessed by [[notes/Braitenberg vehicles|Braitenberg vehicles]] experiment. So, a better way to define AI: the study of having computers complete tasks, at which people are better.
 - Machine Learning is important, because "learning" is a strength of human intelligence and we want to replicate this with computers.
