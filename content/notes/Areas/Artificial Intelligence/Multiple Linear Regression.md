@@ -18,3 +18,4 @@ For categorical variables, how can we represent them in a multiple linear regres
 - Results in multicollinearity, affecting regression models
 - Solution: remove one dummy variable!
 
+**Building a Multiple Linear Regression Model**

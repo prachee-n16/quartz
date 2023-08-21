@@ -7,5 +7,5 @@ title: "Programming Paradigm"
 The common types of paradigm:
 - Procedural Programming
 - Logical Programming
-- [[Functional Programming]]
+- [[Areas/Computer Science/Functional Programming]]
 - Object-oriented Programming

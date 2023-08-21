@@ -25,5 +25,5 @@ There are two model bundles - Hand Landmark and Gesture Classification.
 With gesture classification, it can recognize 7 common hand gestures. This can serve as a default keybind option. So, when the app opens, these 7 will be a pre-set selection but users should still have the ability to enter a custom gesture. 
 
 How does it do it?
-- Encode the image features into a [[Image Feature Vector|Feature Vector]] to feed into the model
+- Encode the image features into a [[../Areas/Artificial Intelligence/Image Feature Vector|Feature Vector]] to feed into the model
 - Lightweight gesture classifier i.e. classification model will classify it into predefined categories

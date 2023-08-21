@@ -2,7 +2,7 @@
 title: "First-Order Logic"
 ---
 
-Gödel's Theorems i.e. [[Gödel's Completeness Theorem|Gödel's Completeness Theorem]] and [[Gödel's Incompleteness Theorem|Gödel's Incompleteness Theorem|]] were important to AI.
+Gödel's Theorems i.e. [[../Math/Gödel's Completeness Theorem|Gödel's Completeness Theorem]] and [[../Math/Gödel's Incompleteness Theorem|Gödel's Incompleteness Theorem|]] were important to AI.
 
 From the completeness theorem, automatic theorem provers were created - In the 1950s, the Logic Theorist was made to show computers could process numbers and symbols.
 - LISP and PROLOG: programming languages created to process symbolic structure

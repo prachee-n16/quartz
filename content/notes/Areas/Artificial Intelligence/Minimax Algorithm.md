@@ -17,4 +17,4 @@ Working bottom-up, board 5 and 6 can be said to have a value -1 because it leads
 In board 3, we come across two situations: either X wins or O wins. Since the goal is to maximize, we say that the board has a value of 1 (max of both the possibilities).
 
 Note: We need to explore several states to make the right choice. While this works out easy for simple games like tic-tac-toe, that's not the case for more complex situations.
-- Possible Improvement: [[notes/Alpha-beta Pruning|Alpha-beta Pruning]]
+- Possible Improvement: [[Areas/Artificial Intelligence/Alpha-beta Pruning|Alpha-beta Pruning]]
