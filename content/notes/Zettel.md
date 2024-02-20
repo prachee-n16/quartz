@@ -13,7 +13,7 @@ Essentially, a single note on one particular topic! The anatomy of a zettel look
 		- This is what i'm going to use since Obsidian has support for this. Note, each [[Zettel]] will end up having it's own unique string i.e. "title" anyways.
 - Body/Content: the actual content
 - Footer/References: source of knowledge or personal thoughts
-	- Also, consider [[Collector's Fallacy]]
+	- Also, consider [[../Collector's Fallacy]]
 When adding links to other content, there needs to be an explanation as to why it is there! If not, this is not knowledge but information!
 - This was an interesting point mentioned somewhere in: https://zettelkasten.de/introduction/#luhmann-s-zettelkasten. How do we categorize text as "knowledge" or "information"? Even better, how do I know what I am writing is knowledge (very critical for zettelkasten)!
 	- Well, information is "dead" - it needs processing for it to give any relevant information. If I write out all the calories I consumed in a day, that's just information on by daily eating habits. Knowledge would be to dissect this and make some inferences. 

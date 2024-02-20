@@ -6,7 +6,7 @@ Hi there 👋! Welcome to my digital garden, a collection of notes on topics tha
 
 This notebook will keep on changing and improving over time, so don't expect it to be perfect yet. Some pages might still be a work in progress.
 - [[notes/Projects|Projects]]
-- [[notes/Areas/Areas|Areas]]
+- [[notes/Areas|Areas]]
 - [[notes/Resources|Resources]]
 - [[notes/Archives|Archives]]
 
