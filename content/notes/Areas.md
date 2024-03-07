@@ -1,6 +1,6 @@
 ---
 title: 🔭 Areas
+tags:
+  - Areas
 ---
-This space is designed to link to all major notes within the area. 
-- [[Zettelkasten|ZETTELKASTEN]]
-- 
+This space is designed to store important metadata regarding files in this section.

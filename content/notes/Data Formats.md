@@ -1,5 +1,8 @@
 ---
 title: Data Formats
+tags:
+  - Areas
+  - DataFundamentals
 ---
 > [!tip] TLDR
 > - Data can be structured, unstructured or aggregated

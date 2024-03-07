@@ -1,5 +1,7 @@
 ---
-title: "Braitenberg vehicles"
+title: Braitenberg vehicles
+tags:
+  - Areas
 ---
 Source: [Braitenberg Vehicle Wiki](https://en.wikipedia.org/wiki/Braitenberg_vehicle)
 

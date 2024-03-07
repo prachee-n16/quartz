@@ -1,5 +1,7 @@
 ---
-title: "Multiple Linear Regression"
+title: Multiple Linear Regression
+tags:
+  - Areas
 ---
 Statistical technique that uses two or more independent variables to predict the outcome of a dependent variable
 - determine the relative contribution of each independent variable in total variance

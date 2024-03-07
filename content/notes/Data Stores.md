@@ -2,6 +2,7 @@
 title: Data Stores
 tags:
   - DataFundamentals
+  - Areas
 ---
 There are two broad categories of data store:
 - file stores

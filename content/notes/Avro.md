@@ -2,6 +2,7 @@
 title: Avro
 tags:
   - DataFundamentals
+  - Areas
 ---
 - Each record has a header that describes the structure of data it contains
 	- Data is stored as binary information, and information in header is used to parse data and extract fields

@@ -2,6 +2,7 @@
 title: XML
 tags:
   - DataFundamentals
+  - Areas
 ---
 *Markup language that provides rules to define data*
 - tags in XML are markup symbols to define data

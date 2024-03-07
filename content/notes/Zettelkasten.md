@@ -3,6 +3,7 @@ title: Zettelkasten
 tags:
   - NoteTaking
   - ZettelkastenGuide
+  - Areas
 ---
 Note: I'm referencing [zettelkasten.de](https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method) to understand how to incorporate this into my daily note-taking!
 

@@ -1,5 +1,7 @@
 ---
-title: "Elementary Graph Algorithms."
+title: Elementary Graph Algorithms.
+tags:
+  - Areas
 ---
 - A graph $G = (V, E)$ is composed of $V$, a set of vertices and $E \in V \times V$ 
 - The two standard way of representing a graph is:

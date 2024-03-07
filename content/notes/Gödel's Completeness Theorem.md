@@ -1,7 +1,8 @@
 ---
-title: "Gödel's Completeness Theorem"
+title: Gödel's Completeness Theorem
+tags:
+  - Areas
 ---
-
 For any collection of first-order statements, every semantic implication of those statements is syntactically provable within first-order logic.
 
 Simply put,

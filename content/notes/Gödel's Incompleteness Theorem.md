@@ -1,5 +1,7 @@
 ---
-title: "Gödel's Incompleteness Theorem"
+title: Gödel's Incompleteness Theorem
+tags:
+  - Areas
 ---
 
 Source: [Numberphile on Gödel's Incompleteness Theorem](https://www.youtube.com/watch?v=O4ndIDcDSGc)

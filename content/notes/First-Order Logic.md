@@ -1,5 +1,7 @@
 ---
-title: "First-Order Logic"
+title: First-Order Logic
+tags:
+  - Areas
 ---
 Gödel's Theorems i.e. [[../Math/Gödel's Completeness Theorem|Gödel's Completeness Theorem]] and [[../Math/Gödel's Incompleteness Theorem|Gödel's Incompleteness Theorem|]] were important to AI.
 

@@ -1,5 +1,7 @@
 ---
-title: "Functional Programming"
+title: Functional Programming
+tags:
+  - Areas
 ---
 
 *What is Functional Programming?* A [[Programming Paradigm]].

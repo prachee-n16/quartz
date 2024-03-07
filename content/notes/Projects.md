@@ -1,3 +1,5 @@
 ---
 title: ✅ Projects
+tags:
+  - Projects
 ---

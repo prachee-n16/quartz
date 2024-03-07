@@ -1,3 +1,5 @@
 ---
 title: 📚 Resources
+tags:
+  - Resources
 ---

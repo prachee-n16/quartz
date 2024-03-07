@@ -3,6 +3,7 @@ title: Collector's Fallacy
 tags:
   - NoteTaking
   - ZettelkastenGuide
+  - Areas
 ---
 To know about something is not the same as knowing something.
 

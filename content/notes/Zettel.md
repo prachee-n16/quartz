@@ -3,6 +3,7 @@ title: Zettel
 tags:
   - NoteTaking
   - ZettelkastenGuide
+  - Areas
 ---
 Essentially, a single note on one particular topic! The anatomy of a zettel looks like:
 - Unique Identifier: an unambiguous address

@@ -1,5 +1,7 @@
 ---
-title: "Programming Paradigm"
+title: Programming Paradigm
+tags:
+  - Areas
 ---
 
 *Definition:* Methods or set of rules to structure code and solve a problem

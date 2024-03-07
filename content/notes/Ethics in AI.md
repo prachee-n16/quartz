@@ -1,5 +1,7 @@
 ---
 title: Ethics in AI
+tags:
+  - Areas
 ---
 
 **AI and Society**

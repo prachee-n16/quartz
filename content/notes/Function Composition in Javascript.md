@@ -1,5 +1,7 @@
 ---
-title: "Function Composition in JavaScript"
+title: Function Composition in JavaScript
+tags:
+  - Areas
 ---
 
 JavaScript is a multi-paradigm programming language - it has supports for several [[Programming Paradigm]], including [[Functional Programming]].

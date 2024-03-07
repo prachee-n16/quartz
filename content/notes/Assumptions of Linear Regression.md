@@ -1,5 +1,7 @@
 ---
-title: "Assumptions of Linear Regression"
+title: Assumptions of Linear Regression
+tags:
+  - Areas
 ---
 Anscombe's Quartet - A group of four data sets with nearly identical descriptive statistics, yet different distributions and graphs. These are prime examples of why it's important to be selective on when to use linear regression!
 

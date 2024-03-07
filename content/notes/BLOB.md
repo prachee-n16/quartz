@@ -2,6 +2,7 @@
 title: BLOB
 tags:
   - DataFundamentals
+  - Areas
 ---
 *Binary Large Object*
 - All files are stored as binary data
