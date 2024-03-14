@@ -43,7 +43,7 @@ How do we inform the computer of something that just happened? **Interrupts**
 Interrupts are a way to improve processor utilization (as opposed to polling)
 - When an interrupt fires, the CPU might ignore it but usually, we need to handle it.
 	- When the computer is in sleep mode, we might want to ignore the key interrupt.
-- OS, the goat will store the state of the CPU and whatever the processor is running, handles the interrupt and restores the state.
+- OS, it will store the state of the CPU and whatever the processor is running, handles the interrupt and restores the state.
 	- If CPU is in the middle of something that can not be interrupted, interrupts will be disabled. 
 
 - Source of Interrupts: We can put polling into four categories, based on their origin

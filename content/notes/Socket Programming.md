@@ -21,6 +21,9 @@ The above model assumes server handles one client at a time. What about multiple
 	- Unpredictable results with threading
 	- Overhead switching of context
 	- Deadlocks can occur 
+- Option 2: using **select()** command which is much better
+	- The clients are 'file descriptors' and the socket waits for one of them to be activated
+	- Select works like an [[Interrupts and System Calls|interrupt handler]], where it activates when a file descriptor sends data
 
 Reference: 
 - https://www.geeksforgeeks.org/socket-programming-cc/
