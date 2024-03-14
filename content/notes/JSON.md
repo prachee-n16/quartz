@@ -3,6 +3,7 @@ title: JSON
 tags:
   - Areas
   - DataFundamentals
+  - completed
 ---
 *JavaScript Object Notation, hierarchical document schema to define objects with many attributes*
 

@@ -3,6 +3,7 @@ title: Delimited Text Files
 tags:
   - DataFundamentals
   - Areas
+  - completed
 ---
 *Technology examples: CSV, TSV files*
 

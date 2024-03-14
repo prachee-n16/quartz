@@ -4,6 +4,7 @@ tags:
   - NoteTaking
   - ZettelkastenGuide
   - Areas
+  - completed
 ---
 Note: I'm referencing [zettelkasten.de](https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method) to understand how to incorporate this into my daily note-taking!
 

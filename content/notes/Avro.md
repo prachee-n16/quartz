@@ -3,6 +3,7 @@ title: Avro
 tags:
   - DataFundamentals
   - Areas
+  - completed
 ---
 - Each record has a header that describes the structure of data it contains
 	- Data is stored as binary information, and information in header is used to parse data and extract fields
@@ -14,7 +15,7 @@ With [[notes/Delimited Text Files|Delimited Text Files]], there are some disadva
 - Parsing is tricky if data has commas
 - Column names might not be there
 
-[[Relational Databases|Relational Databases]]: add types (fixing the first disadvantage):
+Relational Databases: add types (fixing the first disadvantage):
 ```
 CREATE TABLE fruits {
 	id      integer PRIMARY KEY,

@@ -2,6 +2,7 @@
 title: Braitenberg vehicles
 tags:
   - Areas
+  - completed
 ---
 Source: [Braitenberg Vehicle Wiki](https://en.wikipedia.org/wiki/Braitenberg_vehicle)
 

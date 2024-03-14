@@ -2,6 +2,7 @@
 title: Gödel's Incompleteness Theorem
 tags:
   - Areas
+  - to-complete
 ---
 
 Source: [Numberphile on Gödel's Incompleteness Theorem](https://www.youtube.com/watch?v=O4ndIDcDSGc)

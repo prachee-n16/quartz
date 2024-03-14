@@ -3,6 +3,7 @@ title: Data Stores
 tags:
   - DataFundamentals
   - Areas
+  - to-complete
 ---
 There are two broad categories of data store:
 - file stores
@@ -24,5 +25,5 @@ The file format used to store data depends on:
 - [[Parquet]]
 # Databases
 *Central system where data is stored and searched through*
-- [[Relational Databases]]
-- [[Non-relational Databases]]
+- Relational Databases
+- Non-relational Databases

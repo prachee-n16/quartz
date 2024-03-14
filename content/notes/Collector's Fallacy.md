@@ -4,6 +4,7 @@ tags:
   - NoteTaking
   - ZettelkastenGuide
   - Areas
+  - completed
 ---
 To know about something is not the same as knowing something.
 

@@ -2,6 +2,7 @@
 title: Image Formats & Compression Comparision
 tags:
   - Areas
+  - completed
 ---
 Digital graphic files will generally fall into two categories:
 1. Raster graphics are created using a grid of tiny pixels, making them very simple

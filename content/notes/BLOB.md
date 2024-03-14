@@ -3,6 +3,7 @@ title: BLOB
 tags:
   - DataFundamentals
   - Areas
+  - "#to-complete"
 ---
 *Binary Large Object*
 - All files are stored as binary data

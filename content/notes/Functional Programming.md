@@ -2,6 +2,7 @@
 title: Functional Programming
 tags:
   - Areas
+  - to-complete
 ---
 
 *What is Functional Programming?* A [[Programming Paradigm]].
