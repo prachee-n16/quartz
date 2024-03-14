@@ -29,21 +29,3 @@ Mathematics
 
 General
 - [[Zettelkasten]]
-
-[[../System-on-a-Programmable Chip]]
-
-[[../Computer Interfaces]]
-
-[[../Designing Custom Hardware Systems]]
-
-[[../Embedded Software Development]]
-
-[[../Embedded System Design]]
-
-[[../Embedded Systems]]
-
-[[../index]]
-
-[[../Polling Loops and Interrupts]]
-
-[[../Synchronization Techniques]]
