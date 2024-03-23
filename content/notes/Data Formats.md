@@ -19,4 +19,4 @@ Semi-structured data is information with some structure, but has variations betw
 
 Unstructured data that has no structure.
 
-Format is import for [[Data Stores|storing data]], retrieving for analysis and reporting data.
+Format is import for [[Data Stores and Data Processing|storing data]], retrieving for analysis and reporting data.

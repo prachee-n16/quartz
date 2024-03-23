@@ -1,14 +1,10 @@
 ---
-title: Data Stores
+title: File Stores
 tags:
-  - DataFundamentals
   - Areas
+  - DataFundamentals
   - to-complete
 ---
-There are two broad categories of data store:
-- file stores
-- databases
-# File Stores
 *Store data in files*
 
 The file format used to store data depends on:
@@ -23,7 +19,3 @@ The file format used to store data depends on:
 - [[Avro]]
 - [[ORC]]
 - [[Parquet]]
-# Databases
-*Central system where data is stored and searched through*
-- Relational Databases
-- Non-relational Databases
